@@ -1,9 +1,9 @@
 from bottle import template
 
 
-# ===== EDITEM AQUI antes de entregar =====
-AUTORES = 'Nome 1 e Nome 2'
-REPOSITORIO = 'https://github.com/seu-usuario/seu-repositorio'
+# ================================================
+AUTORES = 'Mayra Gomes e Henrique Alexsander'
+REPOSITORIO = 'https://github.com/mayragms/conversor-bmvc'
 # =========================================
 
 

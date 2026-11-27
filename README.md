@@ -52,5 +52,5 @@ Estrutura baseada em `hgmachine/bmvc_start_from_this` (Bottle MVC), com página 
 
 ## Autores
 
-- Nome 1
-- Nome 2
+- Mayra Gomes
+- Henrique Alexsander
